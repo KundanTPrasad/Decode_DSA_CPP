@@ -1,1 +1,28 @@
+#include<iostream>
+using namespace std;
 
+int main() {
+//     int x;
+//     cout<<"Enter Your Number = ";
+//     cin>>x;
+ 
+//     if(x%2==0){
+//         cout<<"Even";
+//     }
+//      if (x%2!=0){
+//         cout<<"Odd";
+//      }
+//     return 0;
+
+
+    int x;
+    cout<<"Enter Your Number = ";
+    cin>>x;
+
+    if(x%2==0){
+        cout<<"Even";
+    }
+    else{
+        cout<<"Odd";
+    }
+}
